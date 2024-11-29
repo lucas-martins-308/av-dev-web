@@ -1,0 +1,30 @@
+.topbar {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: #282C33;
+    gap: 60%;
+}
+
+.topbar h1{
+    margin-left: 100px;
+    font-weight: 400;
+    font-size: x-large;
+    color: #fff;
+}
+
+.nav{
+    text-decoration: none;
+    margin-left: 100px;
+    font-weight: 400;
+    font-size: x-large;
+    color: #fff;
+    gap: 10px;
+}
+
+.nav-link{
+    color: white;
+    margin: 10px;
+    border: none;
+    text-decoration: none;
+}
